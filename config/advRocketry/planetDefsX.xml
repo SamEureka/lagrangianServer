@@ -1,0 +1,18 @@
+<galaxy>
+	<star name="Sol" temp="100" x="0" y="0" size="2.0" numPlanets="5" numGasGiants="1" >
+		<planet DIMID="112" dimMapping="112" name="Lagrangian Station">
+            <isKnown>true</isKnown>
+            <fogColor>0xA9A9A9</fogColor>
+            <skyColor>0xA9A9A9</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalPhi>0</orbitalPhi>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+        </planet>
+	</star>
+</galaxy>

@@ -1,0 +1,12 @@
+#PARSE_ESCAPES
+
+#Quest
+lagrangian.logs.name=Tree Puncher!
+lagrangian.logs.desc=You have to make some tools and the easiest thing to make them out of is wood. Try punching a tree to get some wood.
+
+lagrangian.crafting.name=Crafting a crafting table... craft inception!
+lagrangian.crafting.desc=To make most tools you need a crafting table. Make four wood planks and craft them into a crafting table... easy!
+
+
+#Quest Line
+lagrangian.Early_Game.name=It's the early game grind!
